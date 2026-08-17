@@ -38,4 +38,5 @@ s.show();
 r.show();
 r.add(x,y);
 r.show();
+return 0;   
 }
